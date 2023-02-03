@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+https://www.geeksforgeeks.org/javascript-blob/
+
+https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL
